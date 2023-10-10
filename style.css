@@ -150,7 +150,8 @@ table {
     width: 100%;
     border-collapse: collapse;
     margin-top: 20px;
-    text-align: center;
+    text-align: center; 
+}
 
 th, td {
     border: 1px solid #ddd;
@@ -270,3 +271,7 @@ footer{
     z-index: 999;
     text-align: center;
 }
+
+
+
+
