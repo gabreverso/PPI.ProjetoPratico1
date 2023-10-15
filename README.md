@@ -8,7 +8,7 @@
 
 - style.css: Arquivo de estilização das páginas
 - Pasta de Imagens: contém as imagens utilizadas
-- Versão: https://github.com/gabreverso/PPI.ProjetoPratico1
+- Versão: https://gabreverso.github.io/PPI.ProjetoPratico1/index.html
 
 # Instruções de Uso
 Abrir o arquivo index.html através de qualquer navegador moderno, atraves dele, é possível acessar as outras páginas.
